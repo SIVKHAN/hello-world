@@ -1,2 +1,6 @@
 # hello-world
-Just another repository Sivs
+
+Hi All!
+
+Siva here.
+New to R and hoping to learn faster.
